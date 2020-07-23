@@ -14,7 +14,7 @@ Identify which questions asked on Quora are duplicates of questions that have al
 <li>Interpretability is partially important.</li>
   </ol>
 <h2>Data Overview</h2>
-Data will be in a file Train.csv
+Data will be in a file Train.csv(we can get it from kaggle.)
 <ul>
 <li>Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate. </li>
 <li>Size of Train.csv - 60MB</li>
